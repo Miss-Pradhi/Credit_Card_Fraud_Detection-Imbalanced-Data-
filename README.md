@@ -1,3 +1,4 @@
+Author - Pradhi Bobade
 Credit Card Fraud Detection-->
 This project detects fraud in credit card transactions of Imbalanced Data using machine learning.
 It includes a trained model and a Streamlit app to make predictions.
